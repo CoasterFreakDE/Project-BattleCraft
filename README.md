@@ -68,5 +68,5 @@ Project Developement Description: (German)
  
  
 ### Screenshots
-Day One (19.06.2017):
+Day One (19.05.2017):
 ![19062017](https://image.prntscr.com/image/acd9965efcd04c808e6201fcbf538744.png)
