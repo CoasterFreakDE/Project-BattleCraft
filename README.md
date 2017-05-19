@@ -1,3 +1,5 @@
+![Preview of BattleCraft](Project_BattleCraft.png)
+
 # Project: BattleCraft
 Ultimate Endless Action FPS Arena Game
 
