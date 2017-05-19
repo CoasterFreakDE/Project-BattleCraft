@@ -48,5 +48,16 @@ Beispiel für Special Attacken:
   
 Beispiel für Passive Booster
 - FastMana -> Stellt pro Sekunden +3 Mana wiederher
+
+Geld/Economy:
+- Währung: Gallonen
+- Eintauschbar gegen neue Rüstungen und Waffen
+- Gallonen per Kill kommt auf Level des Gegners an:
+  - Gegner 20 Level oder mehr unter eigenem Level: Nichts
+  - Gegner -19 bis +19 Level: %Anteil des Geldes des Gegners (zB: 5% des Gegners -> Gegner(100 Gallonen) -> Reward(5 Gallonen))
+  - Gegner 20+ Level: Sehr großer Anteil des Geldes (zB: 45%-75% des Geldes)
+
+Special Events (Optional):
+- zB: Zombiebefallenes Fort (RPG Style / PvE)
   
   @author CoasterFreak (Start: 19.05.2017)
