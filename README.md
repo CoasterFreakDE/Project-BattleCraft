@@ -6,14 +6,15 @@ Ultimate Endless Action FPS Arena Game
 Project Developement Description: (German)
 
 #### Idee: Konzept von Overwatch in Endless Mode(GunGame like)
-- Hauptwaffe auf slot 7
-- Attacks mit Cooldown auf Slot 1-3
-- Special Attack auf Slot 5
-- Passive Booster auf Slot 9
+- Hauptwaffe auf slot 6
+- Attacks mit Cooldown auf Slot 0-2
+- Special Attack auf Slot 4
+- Passive Booster auf Slot 8
   		
 #### Attacken kosten Mana
 - Anzeige per Actionbar
 - 1 Mana pro Sekunde wird regeneriert (Standartmäßig)
+- Design der Manabar: ![Manabar](https://image.prntscr.com/image/3e3047b357754395aae969ee53d8564d.png)
 
 #### LevelSystem( Level & XP von Minecraft übernehmen )
   
