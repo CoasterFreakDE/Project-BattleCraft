@@ -1,2 +1,55 @@
-# Project-BattleCraft
+# Project: BattleCraft
 Ultimate Endless Action FPS Arena Game
+
+Project Developement Description: (German)
+
+  			PROJECT: BATTLE CRAFT
+  
+  		Idee: Konzept von Overwatch in Endless Mode(GunGame like)
+  		-> Hauptwaffe auf slot 7
+  		-> Attacks mit Cooldown auf Slot 1-3
+  		-> Special Attack auf Slot 5
+  		-> Passive Booster auf Slot 9
+  		
+  		Attacken kosten Mana
+  		-> Anzeige per Actionbar
+  		-> 1 Mana pro Sekunde wird regeneriert (Standartmäßig)
+  
+  		LevelSystem( Level & XP von Minecraft übernehmen )
+  
+  		Attacken per Skillbaum upgrade und erweiterbar
+  		
+  
+  		Cooldowns:
+  		Leichte Attacken ( 1-10 Sekunden )
+  		Mittlere Attacken ( 8-20 Sekunden )
+  		Starke Attacken ( 12-30 Sekunden )
+  		Special Attacken ( 45 - 180 Sekunden )	
+  
+  
+  		Vorteile der Endless Mode:
+  		- Nur 1 Server benötigt.
+  		- Kein CloudSystem benötigt.
+  		- Dauerhafter Spielspaß (Keine Todeszeiten/Zuschauer/ Kein Warten auf Ende der Runde)
+  		- Kontinuierliche Upgrades (Kein Reset nach Verlassen)
+  		
+  
+  		Beispiel zu leichten Attacken:
+  		- Schuss -> Ein Pfeil der perfekt in richtung des nähsten Gegners schießt ( 2 Sekunden Cooldown, 15 Mana )
+  
+  		Beispiel für mittlere Attacken:
+       - Fireball -> Schleudert einen Feuerball der dem ersten Getroffenem Gegner 5 Herzen Schaden macht
+         ( 15 Sekunden Cooldown, 40 Mana )
+  
+  		Beispiel für Starke Attacken:
+  		- Granate -> Wirft eine Granate die starken Flächenschaden macht ( 25 Sekunden Cooldown, 45 Mana )
+  
+  		Beispiel für Special Attacken:
+  		- Napalm Abwurf -> Lässt in einem Großen Bereich Feuerbomben vom Himmel Regenen die großflächig viel Schaden machen und
+       Gegner anzünden können
+  		  ( 130 Sekunden Cooldown, 80 Mana )
+  
+  		Beispiel für Passive Booster
+  		- FastMana -> Stellt pro Sekunden +3 Mana wiederher
+  
+  @author CoasterFreak (Start: 19.05.2017)
