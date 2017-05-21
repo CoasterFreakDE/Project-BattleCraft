@@ -69,6 +69,7 @@ Project Developement Description: (German)
  
 ### Screenshots
 Day One (19.05.2017 Bisherige Arbeitsleistung: 9 Stunden):
-![19062017](https://image.prntscr.com/image/acd9965efcd04c808e6201fcbf538744.png)
-Day Two (20.05.2017)
-![20052017](https://image.prntscr.com/image/a93a02129b5046d3aa7340bd6bdb811c.png)
+- ![19062017](https://image.prntscr.com/image/acd9965efcd04c808e6201fcbf538744.png)
+
+Day Two (20.05.2017):
+- ![20052017](https://image.prntscr.com/image/a93a02129b5046d3aa7340bd6bdb811c.png)
