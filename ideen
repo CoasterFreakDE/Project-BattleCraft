@@ -1,12 +1,25 @@
 Passives
         stealth
-              -unsichtbar nach 10 sekunden ohne angriffe (verhindert regeneration und mana regeneration)
+              -unsichtbar nach 10 sekunden ohne Angriffe (verhindert regeneration und mana regeneration)
               -schneller im stealth
-              -weniger leben (7-9) leben, normales mana
-              -schnelle manaregneration, leben normalschnell
-              -angriffe schwach
+              -weniger Leben (7-9 Leben), normales Mana
+              -schnelle Manaregneration, Lebensregenration normalschnell
+              -Angriffe schwach
         "tank"
-              -viel leben(15-20)
+              -viel Leben(15-20)
               -langsammer als normale spieler
-              -regenriert 1 herz alle 2 sekunden(10 mana pro herz)
-              -
+              -regenriert 1 Herz alle 2 Sekunden(10 Mana pro Herz)
+              -kein Reittier nutzbar
+         
+aktives
+        punch
+              -wirft gegner 10-20 Blöcke zurück
+              -verbraucht 20 Mana
+              -10 Sekunden Cooldown
+              -Rückstoß bei Benutzung
+              -wenig bis kein Schaden
+        blocktoss
+              -nimmt Block aus Umgebung auf und wirft ihn
+              -cooldown 20 Sekunden
+              -verbraucht 40 Mana
+              -2-4 Herzen Schaden.
