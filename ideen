@@ -10,7 +10,10 @@ Passives
               -langsammer als normale spieler
               -regenriert 1 Herz alle 2 Sekunden(10 Mana pro Herz)
               -kein Reittier nutzbar
-         
+         Dolphin
+              -schneller im Wasser
+              -regeneriert im wasser besser
+              -an land zufällige "Panikattacken" (blindness, "zuckungen")
 aktives
         punch
               -wirft gegner 10-20 Blöcke zurück
@@ -34,6 +37,9 @@ aktives
               -neues inventar zum deaktivieren der Fähigkeit oder zum teleportieren an der momentanen Stelle(Wird auf den boden teleportiert, wenn in der luft teleportiert)
               -1,15 Minuten Cooldown
               -kann gewisse chance auf eine anhaltende schwächung haben
+         Heilungsgeist
+              -Heilt die anvisierte Person 5 Sekunden lang um 5% des Lebens
+        
               
 ulti
         Sturmgeist
@@ -53,7 +59,11 @@ ulti
               -zieht leben von ALLEN Spielern in der Reichweite von 10 Blöcken ab (1/2-1 Herz pro Sekunde)
               -Heilt sich für jedes abgezogene Herz um 1/4 Herz
               -verbraucht 80 Mana
-              
+        Summoner
+              -Beschwört eine große Horde Gegner, die Für die Person Kämpfen(10-50)
+              -verbraucht 60 Mana
+              -gegner sterben nach 50 Sekunden
+              -bei der tötung eines Gegneres erscheinen 2 Sekunden später 2 Weitere Gegner
               
               
               
