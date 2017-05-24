@@ -15,7 +15,7 @@ aktives
         punch
               -wirft gegner 10-20 Blöcke zurück
               -verbraucht 20 Mana
-              -10 Sekunden Cooldown
+              -30 Sekunden Cooldown
               -Rückstoß bei Benutzung
               -wenig bis kein Schaden
         blocktoss
@@ -23,3 +23,39 @@ aktives
               -cooldown 20 Sekunden
               -verbraucht 40 Mana
               -2-4 Herzen Schaden.
+        invincible
+              -macht 2 sekunden lang unverwundbar
+              -40 Sekunden Cooldown
+              -verbraucht 40 Mana
+              -Spieler un der Umgebung werden geschwächt(langsammer und schwächer(schwäche effekt))
+        Freigeist
+              -Spieler kann sich innerhalb der Gesammten map Teleportieren
+              -verbraucht bei aktivierung 5 mana pro sekunde
+              -neues inventar zum deaktivieren der Fähigkeit oder zum teleportieren an der momentanen Stelle(Wird auf den boden teleportiert, wenn in der luft teleportiert)
+              -1,15 Minuten Cooldown
+              -kann gewisse chance auf eine anhaltende schwächung haben
+              
+ulti
+        Sturmgeist
+              -Wirft den Spieler in die Mitte eines Wirblesturms 
+              -andere spieler werden angehoben und mit blitzen beschossen
+              -Dauer: 5-15 sekunden
+              -verbraucht sämtliches mana (auch upgrades)
+              -Spieler wird unsterblich
+        Furie
+              -Spieler wird stärker, schneller, kann höher süringen
+              -Dauer: 10-30 Sekunden
+              -verbraucht 50 Mana
+              -kann spieler un 150 blöcken umgebung sehen
+        Blutrausch
+              -Dauer: 10-30 Sekunden 
+              -kann über die gesammte map gesehen werden
+              -zieht leben von ALLEN Spielern in der Reichweite von 10 Blöcken ab (1/2-1 Herz pro Sekunde)
+              -Heilt sich für jedes abgezogene Herz um 1/4 Herz
+              -verbraucht 80 Mana
+              
+              
+              
+              
+              
+              
