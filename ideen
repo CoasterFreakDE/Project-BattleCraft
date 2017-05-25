@@ -39,7 +39,13 @@ aktives
               -kann gewisse chance auf eine anhaltende schwächung haben
          Heilungsgeist
               -Heilt die anvisierte Person 5 Sekunden lang um 5% des Lebens
-        
+              -kostet 10 Mana
+              -10 Sekunden Cooldown
+              -heilt pro nutzung 7% des eigenen Lebens
+         Bestie
+              -verwandelt Benutzer in ein zufälliges tier(Wolf, Wehrwolf, etc.)
+              -regeneriert leben doppelt so schnell
+              -regeneriert KEINE Mana
               
 ulti
         Sturmgeist
